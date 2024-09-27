@@ -1,0 +1,33 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Chair",
+            "price": 49.99,
+            "category": "Furniture",
+            "description": "Comfortable chair."
+        },
+        {
+            "id": 2,
+            "name": "Table",
+            "price": 89.99,
+            "category": "Furniture",
+            "description": "Dining table."
+        },
+        {
+            "id": 3,
+            "name": "Lamp",
+            "price": 29.99,
+            "category": "Lighting",
+            "description": "Stylish lamp."
+        }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "username": "admin",
+            "password": "admin"
+        }
+    ],
+    "cart": []
+}
