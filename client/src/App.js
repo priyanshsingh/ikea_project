@@ -12,6 +12,7 @@
 // import Admin from './components/Admin';
 import './App.css';
 import Login from './components/login/Login';
+import Navbar from './components/navbar/Navbar';
 
 function App() {
   return (
@@ -31,6 +32,7 @@ function App() {
     // </Router>
     <>
       <Login/>
+      <Navbar/>
     </>
   );
 }
